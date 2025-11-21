@@ -1,1 +1,1 @@
-![IELTS Academic](/IELTS.jpg "IELTS Result")
+![IELTS Academic](/IELT.jpg "IELTS Result")
